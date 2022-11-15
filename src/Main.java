@@ -29,7 +29,7 @@ public class Main {
                 System.out.println("Bölüm : "+(s1 / s2));
                 break;
             default:
-                System.out.println("Lütfen Dört İşlemden Birini seçiniz!");
+                System.out.println("Lütfen Dört İşlemden Birini Seçiniz!");
         }
     }
 }
